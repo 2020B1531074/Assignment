@@ -16,6 +16,6 @@
 		"client": "yarn --cwd client dev",
 		"server": " nodemon  server/server.js",
 		"dev": "concurrently \"yarn server\" \"yarn client\"",
-		"postinstall": "yarn --cwd client add vite"
+		"postinstall": "yarn --cwd client add --dev vite"
 	}
 }
