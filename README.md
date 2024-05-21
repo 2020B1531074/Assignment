@@ -9,7 +9,7 @@ yarn install
 ```
 yarn start
 ```
-
+#### In parent directory create .env copy .env.example in it
 #### Home 
 ![Screenshot from 2024-05-21 19-19-23](https://github.com/2020B1531074/Assignment/assets/98419710/3f696ca4-8c18-441d-83e9-1a86d61e2255)
 #### Add todo
